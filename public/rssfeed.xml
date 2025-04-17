@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>No. 1 News Web Solution on CodeCanyon: Stay Informed and Engaged!</title>
+        <link>https://newsweb.wrteam.me</link>
+        <description>Discover the top news web solution on Codeacnyon! Get the latest and most relevant news with our user-friendly and efficient platform. Stay informed with ease</description>
+        <lastBuildDate>Mon, 07 Apr 2025 12:01:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>All rights reserved 2025</copyright>
+        <item>
+            <title><![CDATA[BCCI]]></title>
+            <link>https://newsweb.wrteam.me/get_rss_feed_by_id/3</link>
+            <guid>https://newsweb.wrteam.me/get_rss_feed_by_id/3</guid>
+            <pubDate>Mon, 07 Apr 2025 12:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TOI]]></title>
+            <link>https://newsweb.wrteam.me/get_rss_feed_by_id/2</link>
+            <guid>https://newsweb.wrteam.me/get_rss_feed_by_id/2</guid>
+            <pubDate>Mon, 07 Apr 2025 12:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CBS News]]></title>
+            <link>https://newsweb.wrteam.me/get_rss_feed_by_id/1</link>
+            <guid>https://newsweb.wrteam.me/get_rss_feed_by_id/1</guid>
+            <pubDate>Mon, 07 Apr 2025 12:01:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,24 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "No. 1 News Web Solution on CodeCanyon: Stay Informed and Engaged!",
+    "home_page_url": "https://newsweb.wrteam.me",
+    "feed_url": "https://newsweb.wrteam.me/rssfeed.json",
+    "description": "Discover the top news web solution on Codeacnyon! Get the latest and most relevant news with our user-friendly and efficient platform. Stay informed with ease",
+    "items": [
+        {
+            "url": "https://newsweb.wrteam.me/get_rss_feed_by_id/3",
+            "title": "BCCI",
+            "date_modified": "2025-04-07T12:01:17.385Z"
+        },
+        {
+            "url": "https://newsweb.wrteam.me/get_rss_feed_by_id/2",
+            "title": "TOI",
+            "date_modified": "2025-04-07T12:01:17.385Z"
+        },
+        {
+            "url": "https://newsweb.wrteam.me/get_rss_feed_by_id/1",
+            "title": "CBS News",
+            "date_modified": "2025-04-07T12:01:17.385Z"
+        }
+    ]
+}

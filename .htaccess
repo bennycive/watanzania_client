@@ -1,0 +1,30 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteRule ^breaking-news/([^/]+)$ breaking-news/[slug].html [L]
+    RewriteRule ^categories-news/([^/]+)$ categories-news/[slug].html [L]
+    RewriteRule ^tag/([^/]+)$ tag/[slug].html [L]
+    RewriteRule ^news/([^/]+)$ news/[slug].html [L]
+    RewriteRule ^video-news-view/([^/]+)$ video-news-view/[slug].html [L]
+    RewriteRule ^view-all/([^/]+)$ view-all/[slug].html [L]
+    RewriteRule ^all-breaking-news$ /all-breaking-news.html [L]
+    RewriteRule ^all-categories$ /all-categories.html [L]
+    RewriteRule ^bookmark$ /bookmark.html [L]
+    RewriteRule ^create-news$ /create-news.html [L]
+    RewriteRule ^edit-news$ /edit-news.html [L]
+    RewriteRule ^index$ /index.html [L]
+    RewriteRule ^live-news$ /live-news.html [L]
+    RewriteRule ^loading$ /loading.html [L]
+    RewriteRule ^manage-news$ /manage-news.html [L]
+    RewriteRule ^more-pages$ /more-pages.html [L]
+    RewriteRule ^news-notification$ /news-notification.html [L]
+    RewriteRule ^personal-notification$ /personal-notification.html [L]
+    RewriteRule ^profile-update$ /profile-update.html [L]
+    RewriteRule ^user-based-categories$ /user-based-categories.html [L]
+    RewriteRule ^rss$ /rss.html [L]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ /404.html [L]
+</IfModule>
+
+    
